@@ -1,17 +1,31 @@
-### Hi there 👋
-[<img src="https://6gst79.csb.app/"/>]
+# Welcome to My GitHub!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate developer specializing in Python and a range of other technologies. I thrive on creating innovative solutions and tackling complex challenges in the realms of machine learning, computer vision, and VR & AR development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- **Programming Languages:** Python, Java, JavaScript, C++, C#
+- **Web Technologies:** Node, React, HTML & CSS, jQuery
+- **Databases:** MSSQL, NoSQL
+- **Frameworks & Libraries:** TensorFlow, OpenCV
+- **Tools:** Git, Unreal Engine, Unity
+- **Specialties:** Machine Learning, Computer Vision, Virtual and Augmented Reality
+
+## 📘 What I Do
+I am committed to pushing the boundaries of technology through meticulous research and application. Here on GitHub, you'll find my work on various Python projects, ranging from simple scripts to complex machine learning algorithms and beyond.
+
+## 🌱 I’m Currently Learning
+- Advanced techniques in Deep Learning and Neural Networks.
+- Exploring more about the capabilities of Unreal Engine and Unity in creating immersive experiences.
+
+## 🤝 Connect With Me
+Feel free to reach out if you're interested in collaborating on a project or if you want to join forces to learn together.
+
+---
+
+Thank you for visiting my profile! Don't forget to check out my repositories and star them if you find them useful!
+
+
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
 <div>

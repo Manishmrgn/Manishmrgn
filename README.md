@@ -1,7 +1,7 @@
 # Welcome to My GitHub!
 
 ## 🚀 About Me
-I'm a passionate developer specializing in Python and a range of other technologies. I thrive on creating innovative solutions and tackling complex challenges in the realms of machine learning, computer vision, and VR & AR development.
+Undergraduate Computer Science Student at Vellore Institute of Technology. I thrive on creating innovative solutions and tackling complex challenges in the realms of machine learning, computer vision, and VR & AR development.
 
 ## 💻 Skills
 - **Programming Languages:** Python, Java, JavaScript, C++, C#
